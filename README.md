@@ -107,7 +107,3 @@ Each discovered repository is reported with three fields:
 When remote fetching is enabled, Git updates remote-tracking references and related metadata inside the `.git` directory. The `--prune` option also removes outdated remote-tracking references.
 
 The tool does not automatically merge, rebase, pull, push, checkout, or reset repositories.
-
-## License
-
-This project is open-source and free to use under the MIT License.
